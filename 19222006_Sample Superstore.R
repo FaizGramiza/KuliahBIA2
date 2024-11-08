@@ -1,4 +1,4 @@
-# Create two 2x3 matrices
+# Create two 2x3 matrix
 # Terdapat kodingan baru
 # Yaitu perhitungan rata-rata
 
