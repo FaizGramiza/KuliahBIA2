@@ -1,3 +1,7 @@
+# Create two 2x3 matrices
+# Terdapat kodingan baru
+# Yaitu perhitungan rata-rata
+
 str(sample_superstore_1_)
 summary(sample_superstore_1_)
 
